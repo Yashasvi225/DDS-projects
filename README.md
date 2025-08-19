@@ -26,11 +26,11 @@ A command-line ride-sharing dispatch system that matches riders to drivers based
 
 ## 🚀 How to Run
 ```bash
-# Clone repository
-git clone https://github.com/your-username/personal-finance-tracker.git
-cd personal-finance-tracker/src
+# Clone the repository
+git clone https://github.com/your-username/ride-sharing-simulator.git
+cd ride-sharing-simulator/src
 
-# Run the program
-python finance_tracker.py
+# Run the simulator
+python ride_sharing_simulator.py
 ---
     
